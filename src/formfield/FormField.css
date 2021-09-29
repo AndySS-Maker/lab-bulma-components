@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.field{
+    margin-top: 15px;
+}
+
+.label{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.input{
+    width: 300px;
+    height: 30px;
+    border-radius: 3px;
+    border-color: ghostwhite;
+    margin-top: 8px;
+}
